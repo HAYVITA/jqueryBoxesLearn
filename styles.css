@@ -1,0 +1,18 @@
+body{
+    background-color: #000B49;
+    font-family: 'Press Start 2P', cursive;
+    color:white;
+}
+.btn{
+  padding: 60px;
+  margin:20px;
+  border-radius: 20%;
+  border-width: thick;
+  border-color: black;
+  }
+h1{
+  color:#FFEBCC;
+}
+.click{
+  opacity:50%;
+}
